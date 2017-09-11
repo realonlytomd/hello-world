@@ -1,4 +1,4 @@
 # hello-world
 my first repository
 
-Going through the tutorial and learning all about GitHub.  Quite.
+Going through the tutorial and learning all about GitHub.
